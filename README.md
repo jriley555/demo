@@ -2,7 +2,6 @@
 
 This is a simple readme file`
 
-oh yeah!
-new lines !!!
+updates in stage
 
-i hope this isnt much of a problem
+more updates in WD
